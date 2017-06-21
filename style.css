@@ -1,0 +1,160 @@
+#wrapper {
+    width: 970px;
+}
+
+#top {
+    background-color: #245176;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+img {
+    width: 350px;
+    height: 100px;
+    display: inline-block;
+}
+
+#top_right {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 300px;
+}
+
+#top_right > p > a {
+    color: #f0cb34;
+}
+
+#top_right > p {
+    color: white;
+    margin-bottom: 0px;
+    margin-left: 25px;
+}
+
+button {
+    background-color: #245176;
+    color: white;
+    border-radius: 5px;
+}
+#search {
+    padding: 20px 40px 20px 40px;
+    background-color: #444444;
+    border-radius: 15px;
+}
+
+#bar_list {
+    list-style-type: none;
+    background-color: #477eac;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid black;
+    border-radius: 7px;
+    width: 80%;
+    margin-left: 63px;
+    padding: 15px;
+}
+
+#bar_list > li {
+    display: inline-block;
+    margin-left: 30px;
+    color: white;
+    font-size: 22px;
+}
+
+#main_list {
+    text-align: center;
+    width: 200px;
+}
+#main_list > li {
+    list-style-type: none;
+}
+
+#main_list > li > a {
+    color: white;
+}
+
+#main_left {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#main_right {
+    display: inline-block;
+    width: 620px;
+}
+
+#main_right > p {
+    color: white;
+}
+
+p {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    color: #f0cb34;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+h5 {
+    text-align: center;
+    color: white;
+    font-size: 17px;
+    margin-top: 5px;
+}
+
+#middle {
+    background-color: white;
+}
+
+#left {
+    display: inline-block;
+    width: 350px;
+    vertical-align: top;
+    margin-left: 90px;
+    border-top: 4px solid #477eac;
+    margin-top: 10px;
+}
+
+#right {
+    display: inline-block;
+    width: 350px;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-top: 4px solid #477eac;
+}
+
+h6 {
+    text-align: center;
+    font-size: 15px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+ul > li {
+    text-align: center;
+    color: #477eac;
+    list-style-type: square;
+}
+
+#bottom {
+    background: linear-gradient(#26567d, #3272a9);
+    height: 100px;
+    padding-left: 240px;
+}
+
+#bottom > a {
+    text-decoration: none;
+    color: #6ca0ce;
+    margin-top: 40px;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+#bottom > p {
+    margin: 0px;
+    margin-top: 15px;
+    width: 528px;
+    color: #6ca0ce;
+}
